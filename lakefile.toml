@@ -1,0 +1,15 @@
+name = "lean-eml"
+version = "0.1.0"
+defaultTargets = ["lean-eml"]
+
+[[require]]
+name = "mathlib"
+scope = "leanprover-community"
+version = "git#master"
+
+[[lean_lib]]
+name = "LeanEml"
+
+[[lean_exe]]
+name = "lean-eml"
+root = "Main"
