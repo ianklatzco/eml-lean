@@ -1,4 +1,4 @@
-# lean-eml
+# eml-lean
 
 Lean 4 formalization of the EML (Exp-Minus-Log) operator from [Odrzywołek, "All Elementary Functions from a Single Operator"](https://arxiv.org/html/2603.21852v2).
 
